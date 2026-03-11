@@ -112,7 +112,7 @@ Event-centric storage (audit-friendly output):
 ## Quick start
 
 ```bash
-git clone https://github.com/garg-tejas/lab-safety-monitor.git
+git clone https://github.com/sunset0331/lab-safety-monitor.git
 cd lab-safety-monitor
 ```
 
